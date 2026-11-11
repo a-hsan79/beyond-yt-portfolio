@@ -1,6 +1,6 @@
 # Beyond YT — Portfolio
 
-Animated portfolio landing page for Ahsan, founder of Beyond YT — YouTube Automation Expert & Vibe Coder.
+Animated portfolio landing page for Ahsan, founder of Beyond YT — YouTube Automation Expert & AI Solutions Builder.
 
 Pages: Home, About, Contact.
 
